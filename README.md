@@ -7,6 +7,13 @@
 
 Console .Net application:
 
+### Functionality provided:
+```
+You can move using arrows on the keyboard, also if you have controller connected, it will be detected and can be used.
+To pass the level you have to eat all points.
+If you touch Ghosts you die.
+```
+
 ### Design Patterns used: 
 ```
 Creational:
