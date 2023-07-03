@@ -12,6 +12,7 @@ Console .Net application:
 You can move using arrows on the keyboard, also if you have controller connected, it will be detected and can be used.
 To pass the level you have to eat all points.
 If you touch Ghosts you die.
+Ghosts are moving randomly untill they see you, when they detect PacMan they starting follow him to catch.
 ```
 
 ### Design Patterns used: 
